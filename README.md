@@ -4,7 +4,6 @@
   - [student lab starter](https://github.com/shanep/capstone-starter)
 - [CS253 - Software Development in C course site](https://shanepanter.com/c-devel)
   - [student lab starter](https://github.com/shanep/c-devel-starter)
-  - [final project starter](https://github.com/shanep/c-devel-final)
 - [CS452 - Operating Systems](https://shanepanter.com/operating-systems)
 - CS117 - Introduction to C++ for engineers
 - CS-HU250 - Introduction to Version Control
