@@ -14,4 +14,4 @@ Starter code and examples. The lists below contain both current and old projects
 - [CS208](https://github.com/stars/shanep/lists/cs208)
 - [CS333](https://github.com/stars/shanep/lists/cs333)
 - [CS408](https://github.com/stars/shanep/lists/cs208)
-- [CS452]((https://github.com/stars/shanep/lists/cs452)
+- [CS452](https://github.com/stars/shanep/lists/cs452)
