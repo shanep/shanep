@@ -2,7 +2,7 @@
 
 - [Website](https://shanepanter.com/)
 - [research](https://github.com/stars/shanep/lists/research)
-- [general](https://github.com/stars/shanep/lists/personal)
+- [general](https://github.com/stars/shanep/lists/general)
 
 ## Teaching
 
