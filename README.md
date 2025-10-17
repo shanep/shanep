@@ -1,6 +1,7 @@
 ## Research
 
 - [Website](https://shanepanter.com/)
+- [In Progress Research](https://github.com/stars/shanep/lists/in-progress)
 - [research](https://github.com/stars/shanep/lists/research)
 - [general](https://github.com/stars/shanep/lists/general)
 
